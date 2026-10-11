@@ -1,0 +1,15 @@
+# Build output
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Testing/
+*.o
+*.a
+*.obj
+*.exe
+*.log
+
+# IDE
+.idea/
+.vs/
